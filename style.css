@@ -24,11 +24,13 @@
 }
 .card {
     text-align: center;
+    padding: 30px;
 }
 .card{
     border: none;
     border-radius: 20px;
     box-shadow: 5px 5px 10px lightgray;
+
 }
 .card-footer{
     background-color: #fff;
